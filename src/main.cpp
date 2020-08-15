@@ -46,8 +46,8 @@
 #define RELE             4
 
 // Definições do Wi-Fi
-const char* SSID = "LEVANLU";
-const char* PASSWORD = "LEVANLUBRESOLIN";
+const char* SSID = "YOUR_SSID";
+const char* PASSWORD = "YOUR_PASSWORD";
 
 // Definições do broker MQTT
 const char* ID_MQTT = "Leandro_UNISAL";
